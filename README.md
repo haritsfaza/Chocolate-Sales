@@ -1,5 +1,5 @@
 # Analyze Chocolate Sales
-**Code:** Chocolate Sales.ipynb
+**Code:** [Chocolate Sales.ipynb](https://github.com/haritsfaza/Chocolate-Sales/blob/main/Chocolate%20Sales.ipynb)
 
 **Goal:** To analyze and increase chocolate sales.
 
